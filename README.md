@@ -1,8 +1,8 @@
-# 🎥 Movie Database Web Application
+# Movie Database Web Application
 
 <br>
 
-## ✨ Features:
+## Features:
 - Cover 200,000+ movie metadata and 1,000,000+ ratings
 - Docker-based setup allow cross-platform depolyment
 - Easy-to-manage MySQL database with built-in admin interface phpMyAdmin
@@ -16,7 +16,7 @@
 
 <br>
 
-## 🚀 Launch Guidelines:
+## Launch Guidelines:
 
 > ### Prerequisites
 - Download and install Docker from [Docker's official website](https://www.docker.com/products/docker-desktop/).
@@ -52,12 +52,12 @@
 
 <br>
 
-## 🧩 Tech Stack:
+## Tech Stack:
 - Deployment: Docker, Docker Compose
 - Database: MySQL, phpMyAdmin
 - Frontend: HTML, CSS, JavaScript
 
 <br>
 
-## 📄 License:
+## License:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
