@@ -11,7 +11,7 @@
 
 <br>
 
-## 📝 Database Architecture
+## Database Architecture
 ### ERD Diagram: ![ERD Diagram](./Docs/Entity_Relationship_Diagram.jpeg)
 
 <br>
