@@ -5,14 +5,14 @@
 ## ✨ Features:
 - Cover 200,000+ movie metadata and 1,000,000+ ratings
 - Docker-based setup allow cross-platform depolyment
-- Easy-to-manage MySQL database with a built-in admin interface - phpMyAdmin
+- Easy-to-manage MySQL database with built-in admin interface phpMyAdmin
+
+> **Check out the [Database Report](./Docs/Database_Report.pdf)** for detailed database design, SQL queries, functionality, and security measure.
 
 <br>
 
 ## 📝 Database Architecture
 ### ERD Diagram: ![ERD Diagram](./Docs/Entity_Relationship_Diagram.jpeg)
-
-For a comprehensive explanation, please refer to [Database Architecture](./Docs/Database_Architecture.pdf).
 
 <br>
 
